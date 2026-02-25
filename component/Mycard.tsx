@@ -15,7 +15,7 @@ export default function Mycard() {
       </div>
       <div className="flex gap-4 mb-8">
         <Image 
-        src="/facebook.png"
+        src="/Facebook.png"
         alt="Facebook"
         width={40}
         height={40}
